@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SBS sample</string>
+
+    <string name="url_users">"https://reqres.in/api/users?per_page=13"</string>
+    <string name="add_user">ADD USER</string>
+</resources>
